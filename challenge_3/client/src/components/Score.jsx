@@ -2,7 +2,7 @@ import React from 'react';
 
 const Score = (props) => (
   <div>
-    <p>Bye</p>
+    <p>Current Score:sefsef </p>
   </div>
 );
 

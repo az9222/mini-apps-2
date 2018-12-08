@@ -1,6 +1,5 @@
 import React from 'react';
 import ScorePad from './ScorePad.jsx';
-import Score from './Score.jsx';
 
 class App extends React.Component {
   constructor(props) {
@@ -15,7 +14,6 @@ class App extends React.Component {
       <div>
         <p>Welcome to the Bowling Game!</p>
         <ScorePad />
-        <Score />
       </div>
     )
   }
